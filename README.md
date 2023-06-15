@@ -1,44 +1,15 @@
 # MoonPlayer
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcoslyk%2Fmoonplayer.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcoslyk%2Fmoonplayer?ref=badge_shield)
-
 
 MoonPlayer is an interesting player that lets you to enjoy videos. It can play the video online, download it or just open the local videos.
 
 ***
 
-## Homepage
-
-The homepage of MoonPlayer is here: https://coslyk.github.io/moonplayer.html
-
-Here is the development page of this project. For the introduction and usage information, please visit the homepage.
-
-[Update log](https://github.com/coslyk/moonplayer/blob/develop/NEWS.md)
-
 ## Installation
-
-#### Windows / macOS / Linux (AppImage)
-
-Download from [GitHub Releases](https://github.com/coslyk/MoonPlayer/releases) and install it.
 
 **Note:**
 1. Windows version only support x64.
 2. AppImage version does not support hardware decoding.
 
-#### Linux (Flatpak)
-
-Install from [Flathub](https://flathub.org/apps/details/com.github.coslyk.MoonPlayer): `flatpak install flathub com.github.coslyk.MoonPlayer`
-
-#### Linux (Debian)
-
-Add [DebianOpt](https://github.com/coslyk/debianopt-repo) repository, then install with `sudo apt install moonplayer`.
-
-#### Linux (ArchLinux, Manjaro)
-
-Add [ArchLinuxCN](https://www.archlinuxcn.org/archlinux-cn-repo-and-mirror/) repository, then install with `pacman -S moonplayer`.
-
-## Screenshot
-
-![](https://coslyk.github.io/files/moonplayer-play.png)
 
 ## Development
 
@@ -114,9 +85,3 @@ sudo make install
 - [hlsdl](https://github.com/selsta/hlsdl) (License: MIT)
 
 - [Danmaku2Ass-Cpp](https://github.com/coslyk/danmaku2ass_cpp) (License: WTFPL)
-
-## License
-
-[GPLv3+](https://github.com/coslyk/moonplayer/blob/develop/LICENSE)
-
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcoslyk%2Fmoonplayer.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcoslyk%2Fmoonplayer?ref=badge_large)
